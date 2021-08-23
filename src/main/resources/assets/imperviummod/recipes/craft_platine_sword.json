@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " # ",
+        " i "
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:platine"
+        },
+        "i": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "imperviummod:platine_sword",
+        "count": 1
+    }
+}

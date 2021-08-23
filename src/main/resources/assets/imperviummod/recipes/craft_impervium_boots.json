@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:impervium"
+        }
+    },
+    "result": {
+        "item": "imperviummod:impervium_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:platine"
+        }
+    },
+    "result": {
+        "item": "imperviummod:platine_chestplate",
+        "count": 1
+    }
+}

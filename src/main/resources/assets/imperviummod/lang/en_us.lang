@@ -1,0 +1,107 @@
+//--------------------blocks--------------------
+//platine
+tile.platine_block.name=§8Platine block
+tile.platine_ore.name=§8Platine ore
+//iridium
+tile.iridium_block.name=§6Iridium block
+tile.iridium_ore.name=§6Iridium ore
+//impervium
+tile.impervium_block.name=§5Impervium block
+tile.impervium_ore.name=§5Impervium ore
+//other
+tile.x_ray_block.name=§7X-ray block
+//pillage
+tile.custom_tnt.name=§cTNT
+tile.custom_tnt_large.name=§cTNT x3
+tile.custom_tnt_extra_large.name=§cTNT x5
+tile.piller_tnt.name=§8Piller TNT
+tile.piller_tnt_large.name=§8Piller TNT x3
+tile.piller_tnt_extra_large.name=§8Piller TNT x5
+
+//--------------------items--------------------
+//minerais
+item.platine.name=§8Platine
+item.iridium.name=§6Iridium
+item.impervium.name=§5Impervium
+//sticks
+item.neutral_stick.name=§fNeutral stick
+item.heal_stick.name=§4Heal stick
+item.speed_stick.name=§2Speed stick
+item.strenght_stick.name=§6Strenght stick
+item.haste_stick.name=§eHaste stick
+item.feather_falling_stick.name=§7Feather falling stick
+//fish
+item.flying_fish.name=Flying fish
+//brewing
+item.flying_fish_feather.name=Feather of flying fish
+//pillage
+item.platine_gunpowder.name=§8Platine gunpowder
+item.platine_compressed_gunpowder.name=§8Platine compressed gunpowder
+item.iridium_gunpowder.name=§6Iridium gunpowder
+item.iridium_compressed_gunpowder.name=§6Iridium compressed gunpowder
+item.impervium_gunpowder.name=§5Impervium gunpowder
+item.impervium_compressed_gunpowder.name=§5Impervium compressed gunpowder
+
+//--------------------tools--------------------
+//platine
+item.platine_axe.name=§8Platine axe
+item.platine_pickaxe.name=§8Platine pickaxe
+item.platine_shovel.name=§8Platine shovel
+item.platine_sword.name=§8Platine sword
+//iridium
+item.iridium_axe.name=§6Iridium axe
+item.iridium_pickaxe.name=§6Iridium pickaxe
+item.iridium_shovel.name=§6Iridium shovel
+item.iridium_sword.name=§6Iridium sword
+//impervium
+item.impervium_axe.name=§5Impervium axe
+item.impervium_pickaxe.name=§5Impervium pickaxe
+item.impervium_shovel.name=§5Impervium shovel
+item.impervium_sword.name=§5Impervium sword
+
+//--------------------armors--------------------
+//platine
+item.platine_helmet.name=§8Platine helmet
+item.platine_chestplate.name=§8Platine chestplate
+item.platine_legging.name=§8Platine legging
+item.platine_boots.name=§8Platine boots
+//iridium
+item.iridium_helmet.name=§6Iridium helmet
+item.iridium_chestplate.name=§6Iridium chestplate
+item.iridium_legging.name=§6Iridium legging
+item.iridium_boots.name=§6Iridium boots
+//impervium
+item.impervium_helmet.name=§5Impervium helmet
+item.impervium_chestplate.name=§5Impervium chestplate
+item.impervium_legging.name=§5Impervium legging
+item.impervium_boots.name=§5Impervium boots
+
+//--------------------other--------------------
+//creative tab
+itemGroup.impervium=§5Impervium Mod
+//messages sticks
+healstick.tomuchhealth=§cImpossible to use heal stick, your health is greater than 8 hearts !
+speedstick.tomuchtimeleft=§cImpossible to use speed stick, you have more than a minute effect left !
+strenghtstick.tomuchtimeleft=§cImpossible to use strenght stick, you have more than a minute effect left !
+hastestick.tomuchtimeleft=§cImpossible to use haste stick, you have more than a minute effect left !
+featherfallingstick.tomuchtimeleft=§cImpossible to use feather falling stick, you have more than a minute effect left !
+
+//--------------------brewing--------------------
+//effects
+effect.feather_falling_effect=Feather falling
+//potions
+potion.effect.feather_falling=Potion of feather falling
+potion.effect.haste=Potion of haste
+potion.effect.blindness=Potion of blindness
+//splash_potions
+splash_potion.effect.feather_falling=Splash potion of feather falling
+splash_potion.effect.haste=Splash potion of haste
+splash_potion.effect.blindness=Splash potion of blindness
+//lingering_potions
+lingering_potion.effect.feather_falling=Lingering potion of feather falling
+lingering_potion.effect.haste=Lingering potion of haste
+lingering_potion.effect.blindness=Lingering potion of blindness
+//tipped arrows
+tipped_arrow.effect.feather_falling=Arrow of feather falling
+tipped_arrow.effect.haste=Arrow of haste
+tipped_arrow.effect.blindness=Arrow of blindness

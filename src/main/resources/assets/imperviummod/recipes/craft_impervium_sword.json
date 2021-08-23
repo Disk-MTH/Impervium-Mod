@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " # ",
+        " i "
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:impervium"
+        },
+        "i": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "imperviummod:impervium_sword",
+        "count": 1
+    }
+}

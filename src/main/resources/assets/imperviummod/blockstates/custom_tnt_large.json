@@ -1,0 +1,6 @@
+{
+	"variants": {
+		        "explode=false": { "model":"imperviummod:custom_tnt_large" },
+                "explode=true": { "model":"imperviummod:custom_tnt_large" }
+	}
+}

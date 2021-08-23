@@ -1,0 +1,6 @@
+{
+	"variants": {
+		        "explode=false": { "model":"imperviummod:piller_tnt_extra_large" },
+                "explode=true": { "model":"imperviummod:piller_tnt_extra_large" }
+	}
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "imperviummod",
+  "name": "Impervium Mod",
+  "description": "Mod du serveur pvp-faction 1.12.2 Impervium",
+  "version": "1.9",
+  "mcversion": "1.12.2",
+  "url": "https://impervium.ml | https://discord.gg/H6DS3KHePu",
+  "updateUrl": "",
+  "authorList": ["Disk_MTH"],
+  "credits": "Mod créé par Disk_MTH, textures créées par Trft",
+  "logoFile": "assets/imperviummod/logo/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

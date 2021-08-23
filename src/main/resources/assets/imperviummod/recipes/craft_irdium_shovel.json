@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " i ",
+        " i "
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:iridium"
+        },
+        "i": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "imperviummod:iridium_shovel",
+        "count": 1
+    }
+}

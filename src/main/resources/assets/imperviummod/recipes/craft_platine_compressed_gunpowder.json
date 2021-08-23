@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#i#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:platine_gunpowder"
+        },
+        "i": {
+            "item": "imperviummod:platine_block"
+        }
+    },
+    "result": {
+        "item": "imperviummod:platine_compressed_gunpowder",
+		"count": 1
+    }
+}

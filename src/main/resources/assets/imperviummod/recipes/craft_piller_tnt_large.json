@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#i#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:iridium_compressed_gunpowder"
+        },
+        "i": {
+            "item": "imperviummod:custom_tnt_large"
+        }
+    },
+    "result": {
+        "item": "imperviummod:piller_tnt_large",
+		"count": 1
+    }
+}

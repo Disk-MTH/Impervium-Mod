@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:iridium"
+        }
+    },
+    "result": {
+        "item": "imperviummod:iridium_legging",
+        "count": 1
+    }
+}

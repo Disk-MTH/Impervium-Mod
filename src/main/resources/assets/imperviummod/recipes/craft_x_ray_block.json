@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#m#",
+        "mim",
+        "#m#"
+    ],
+    "key": {
+        "i": {
+            "item": "imperviummod:impervium"
+        },
+        "#": {
+            "item": "imperviummod:platine"
+        },
+        "m": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "imperviummod:x_ray_block",
+		"count": 1
+    }
+}

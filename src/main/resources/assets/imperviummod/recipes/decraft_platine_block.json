@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:platine_block"
+        }
+    },
+    "result": {
+        "item": "imperviummod:platine",
+        "count": 9
+    }
+}

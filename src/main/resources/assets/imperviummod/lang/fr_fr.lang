@@ -1,0 +1,107 @@
+//--------------------blocks--------------------
+//platine
+tile.platine_block.name=§8Bloc de platine
+tile.platine_ore.name=§8Minerai de platine
+//iridium
+tile.iridium_block.name=§6Bloc d'iridium
+tile.iridium_ore.name=§6Minerai d'iridium
+//impervium
+tile.impervium_block.name=§5Bloc d'impervium
+tile.impervium_ore.name=§5Minerai d'impervium
+//other
+tile.x_ray_block.name=§7Block x-ray
+//pillage
+tile.custom_tnt.name=§cTNT
+tile.custom_tnt_large.name=§cTNT x3
+tile.custom_tnt_extra_large.name=§cTNT x5
+tile.piller_tnt.name=§8TNT pilleur
+tile.piller_tnt_large.name=§8TNT pilleur x3
+tile.piller_tnt_extra_large.name=§8TNT pilleur x5
+
+//--------------------items--------------------
+//minerai
+item.platine.name=§8Platine
+item.iridium.name=§6Iridium
+item.impervium.name=§5Impervium
+//sticks
+item.neutral_stick.name=§fBâton neutre
+item.heal_stick.name=§4Bâton de soin
+item.speed_stick.name=§2Bâton de rapidité
+item.strenght_stick.name=§6Bâton de force
+item.haste_stick.name=§eBâton de célérité
+item.feather_falling_stick.name=§7Bâton de chute amortie
+//fish
+item.flying_fish.name=Poisson volant
+//brewing
+item.flying_fish_feather.name=Plume de poisson volant
+//pillage
+item.platine_gunpowder.name=§8Poudre à canon enrichie au platine
+item.platine_compressed_gunpowder.name=§8Poudre à canon compressée enrichie au platine
+item.iridium_gunpowder.name=§6Poudre à canon enrichie à l'iridium
+item.iridium_compressed_gunpowder.name=§6Poudre à canon compressée enrichie à l'iridium
+item.impervium_gunpowder.name=§5Poudre à canon enrichie à l'impervium
+item.impervium_compressed_gunpowder.name=§5Poudre à canon compressée enrichie à l'impervium
+
+//--------------------tools--------------------
+//platine
+item.platine_axe.name=§8Hache en platine
+item.platine_pickaxe.name=§8Pioche en platine
+item.platine_shovel.name=§8Pelle en platine
+item.platine_sword.name=§8Epée en platine
+//iridium
+item.iridium_axe.name=§6Hache en iridium
+item.iridium_pickaxe.name=§6Pioche en iridium
+item.iridium_shovel.name=§6Pelle en iridium
+item.iridium_sword.name=§6Epée en iridium
+//impervium
+item.impervium_axe.name=§5Hache en impervium
+item.impervium_pickaxe.name=§5Pioche en impervium
+item.impervium_shovel.name=§5Pelle en impervium
+item.impervium_sword.name=§5Epée en impervium
+
+//--------------------armors--------------------
+//platine
+item.platine_helmet.name=§8Casque en platine
+item.platine_chestplate.name=§8Plastron en platine
+item.platine_legging.name=§8Jambières en platine
+item.platine_boots.name=§8Bottes en platine
+//iridium
+item.iridium_helmet.name=§6Casque en iridium
+item.iridium_chestplate.name=§6Plastron en iridium
+item.iridium_legging.name=§6Jambières en iridium
+item.iridium_boots.name=§6Bottes en iridium
+//impervium
+item.impervium_helmet.name=§5Casque en impervium
+item.impervium_chestplate.name=§5Plastron en impervium
+item.impervium_legging.name=§5Jambières en impervium
+item.impervium_boots.name=§5Bottes en impervium
+
+//--------------------other--------------------
+//creative tab
+itemGroup.impervium=§5Impervium Mod
+//messages sticks
+healstick.tomuchhealth=§cImpossible d'utiliser le bâton de soin, ta vie est supérieure à 8 coeurs !
+speedstick.tomuchtimeleft=§cImpossible d'utiliser le bâton de rapidité, il te reste plus d'1 minute d'effet !
+strenghtstick.tomuchtimeleft=§cImpossible d'utiliser le bâton de force, il te reste plus d'1 minute d'effet !
+hastestick.tomuchtimeleft=§cImpossible d'utiliser le bâton de célérité, il te reste plus d'1 minute d'effet !
+featherfallingstick.tomuchtimeleft=§cImpossible d'utiliser le bâton de chute ammortie, il te reste plus d'1 minute d'effet !
+
+//--------------------brewing--------------------
+//effects
+effect.feather_falling_effect=Chute amortie
+//potions
+potion.effect.feather_falling=Potion de chute amortie
+potion.effect.haste=Potion de célérité
+potion.effect.blindness=Potion de cécité
+//splash_potions
+splash_potion.effect.feather_falling=Potion jetable de chute amortie
+splash_potion.effect.haste=Potion jetable de célérité
+splash_potion.effect.blindness=Potion jetable de cécité
+//lingering_potions
+lingering_potion.effect.feather_falling=Potion persistante de chute amortie
+lingering_potion.effect.haste=Potion persistante de célérité
+lingering_potion.effect.blindness=Potion persistante de cécité
+//tipped arrows
+tipped_arrow.effect.feather_falling=Flèche de chute amortie
+tipped_arrow.effect.haste=Flèche de célérité
+tipped_arrow.effect.blindness=Flèche de cécité

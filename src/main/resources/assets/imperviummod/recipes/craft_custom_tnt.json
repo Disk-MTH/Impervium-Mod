@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i#i",
+        "#i#",
+        "i#i"
+    ],
+    "key": {
+        "#": {
+            "item": "imperviummod:platine_gunpowder"
+        },
+        "i": {
+            "item": "minecraft:sand"
+        }
+    },
+    "result": {
+        "item": "imperviummod:custom_tnt",
+        "count": 1
+    }
+}
